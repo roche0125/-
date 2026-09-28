@@ -1,4 +1,4 @@
-pip install streamlit google-genai pandas
+
 import json
 import pandas as pd
 import streamlit as st
